@@ -25,19 +25,11 @@ class Complex{
         // Functions
         void set(float r,float i);
         void  print() const;
-        void setReal(float r);
-        void setImg(float i);
-        float getReal() const;
-        float getImg() const;
+
 
 
         // Operators
         Complex operator+(const Complex& obj);
-        Complex operator-(const Complex& obj);
-        Complex operator*(const Complex& obj);
-        Complex operator/(const Complex& obj);
-        bool operator==(const Complex& obj);
-        void operator=(const Complex& obj);
 
         friend 	std::ostream& operator<<(std::ostream &os, const Complex& obj);
         friend 	std::istream& operator>>(std::istream &is, Complex& obj);

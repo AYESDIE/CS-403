@@ -8,18 +8,12 @@
 void lab2_1() {
     std::cout<<"lab 2_1\n\n";
     Complex a,b,res;
-    int temp;
     std::cin>>a>>b;
     std::cout<<"\n-->Entered complex numbers<--\n";
     std::cout<<a<<"\n"<<b;
 
-    if(a==b)
-        std::cout<<"\n-->They are equal<--\n";
-    else
-        std::cout<<"\n-->They are not equal<--\n";
-
     res = a+b;
-    std::cout<<a<<" + "<<b<<" = "<<res<<"\n";
+    std::cout<<"\n"<<a<<" + "<<b<<" = "<<res<<"\n";
 }
 
 void lab2_2(){
@@ -53,6 +47,10 @@ void lab2_5(){
 }
 
 int main(){
+    lab2_1();
+    lab2_2();
+    lab2_3();
+    lab2_4();
     lab2_5();
     return 0;
 }
