@@ -487,6 +487,19 @@ lab5_5/fast:
 .PHONY : lab5_5/fast
 
 #=============================================================================
+# Target rules for targets named lab6_1
+
+# Build rule for target.
+lab6_1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 lab6_1
+.PHONY : lab6_1
+
+# fast build rule for target.
+lab6_1/fast:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/build
+.PHONY : lab6_1/fast
+
+#=============================================================================
 # Target rules for targets named lab6_2
 
 # Build rule for target.
@@ -1425,6 +1438,33 @@ Lab-5/lab5_5.cpp.s:
 	$(MAKE) -f CMakeFiles\lab5_5.dir\build.make CMakeFiles/lab5_5.dir/Lab-5/lab5_5.cpp.s
 .PHONY : Lab-5/lab5_5.cpp.s
 
+Lab-6/lab6_1.obj: Lab-6/lab6_1.cpp.obj
+
+.PHONY : Lab-6/lab6_1.obj
+
+# target to build an object file
+Lab-6/lab6_1.cpp.obj:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/Lab-6/lab6_1.cpp.obj
+.PHONY : Lab-6/lab6_1.cpp.obj
+
+Lab-6/lab6_1.i: Lab-6/lab6_1.cpp.i
+
+.PHONY : Lab-6/lab6_1.i
+
+# target to preprocess a source file
+Lab-6/lab6_1.cpp.i:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/Lab-6/lab6_1.cpp.i
+.PHONY : Lab-6/lab6_1.cpp.i
+
+Lab-6/lab6_1.s: Lab-6/lab6_1.cpp.s
+
+.PHONY : Lab-6/lab6_1.s
+
+# target to generate assembly for a file
+Lab-6/lab6_1.cpp.s:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/Lab-6/lab6_1.cpp.s
+.PHONY : Lab-6/lab6_1.cpp.s
+
 Lab-6/lab6_10.obj: Lab-6/lab6_10.cpp.obj
 
 .PHONY : Lab-6/lab6_10.obj
@@ -1785,6 +1825,7 @@ help:
 	@echo ... lab5_3
 	@echo ... lab5_4
 	@echo ... lab5_5
+	@echo ... lab6_1
 	@echo ... lab6_2
 	@echo ... lab6_3
 	@echo ... lab6_11
@@ -1885,6 +1926,9 @@ help:
 	@echo ... Lab-5/lab5_5.obj
 	@echo ... Lab-5/lab5_5.i
 	@echo ... Lab-5/lab5_5.s
+	@echo ... Lab-6/lab6_1.obj
+	@echo ... Lab-6/lab6_1.i
+	@echo ... Lab-6/lab6_1.s
 	@echo ... Lab-6/lab6_10.obj
 	@echo ... Lab-6/lab6_10.i
 	@echo ... Lab-6/lab6_10.s

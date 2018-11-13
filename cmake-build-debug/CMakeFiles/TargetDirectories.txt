@@ -28,6 +28,7 @@ D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab5_2.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab5_3.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab5_4.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab5_5.dir
+D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab6_1.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab6_2.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab6_3.dir
 D:/Codes/GitHub/CS-403/cmake-build-debug/CMakeFiles/lab6_11.dir

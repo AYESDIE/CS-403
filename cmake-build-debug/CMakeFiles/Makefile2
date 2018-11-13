@@ -1132,13 +1132,50 @@ clean: CMakeFiles/lab5_5.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/lab6_1.dir
+
+# All Build rule for target.
+CMakeFiles/lab6_1.dir/all:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/depend
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target lab6_1"
+.PHONY : CMakeFiles/lab6_1.dir/all
+
+# Include target in all.
+all: CMakeFiles/lab6_1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab6_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/lab6_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/lab6_1.dir/rule
+
+# Convenience name for target.
+lab6_1: CMakeFiles/lab6_1.dir/rule
+
+.PHONY : lab6_1
+
+# clean rule for target.
+CMakeFiles/lab6_1.dir/clean:
+	$(MAKE) -f CMakeFiles\lab6_1.dir\build.make CMakeFiles/lab6_1.dir/clean
+.PHONY : CMakeFiles/lab6_1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/lab6_1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lab6_2.dir
 
 # All Build rule for target.
 CMakeFiles/lab6_2.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_2.dir\build.make CMakeFiles/lab6_2.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_2.dir\build.make CMakeFiles/lab6_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=67,68 "Built target lab6_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=69,70 "Built target lab6_2"
 .PHONY : CMakeFiles/lab6_2.dir/all
 
 # Include target in all.
@@ -1175,7 +1212,7 @@ clean: CMakeFiles/lab6_2.dir/clean
 CMakeFiles/lab6_3.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_3.dir\build.make CMakeFiles/lab6_3.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_3.dir\build.make CMakeFiles/lab6_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=69,70 "Built target lab6_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=71,72 "Built target lab6_3"
 .PHONY : CMakeFiles/lab6_3.dir/all
 
 # Include target in all.
@@ -1212,7 +1249,7 @@ clean: CMakeFiles/lab6_3.dir/clean
 CMakeFiles/lab6_11.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_11.dir\build.make CMakeFiles/lab6_11.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_11.dir\build.make CMakeFiles/lab6_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=61,62 "Built target lab6_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=63,64 "Built target lab6_11"
 .PHONY : CMakeFiles/lab6_11.dir/all
 
 # Include target in all.
@@ -1249,7 +1286,7 @@ clean: CMakeFiles/lab6_11.dir/clean
 CMakeFiles/lab6_4.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_4.dir\build.make CMakeFiles/lab6_4.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_4.dir\build.make CMakeFiles/lab6_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=71,72 "Built target lab6_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=73,74 "Built target lab6_4"
 .PHONY : CMakeFiles/lab6_4.dir/all
 
 # Include target in all.
@@ -1286,7 +1323,7 @@ clean: CMakeFiles/lab6_4.dir/clean
 CMakeFiles/lab6_10.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_10.dir\build.make CMakeFiles/lab6_10.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_10.dir\build.make CMakeFiles/lab6_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target lab6_10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=61,62 "Built target lab6_10"
 .PHONY : CMakeFiles/lab6_10.dir/all
 
 # Include target in all.
@@ -1323,7 +1360,7 @@ clean: CMakeFiles/lab6_10.dir/clean
 CMakeFiles/lab6_5.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_5.dir\build.make CMakeFiles/lab6_5.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_5.dir\build.make CMakeFiles/lab6_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=73,74 "Built target lab6_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=75,76 "Built target lab6_5"
 .PHONY : CMakeFiles/lab6_5.dir/all
 
 # Include target in all.
@@ -1360,7 +1397,7 @@ clean: CMakeFiles/lab6_5.dir/clean
 CMakeFiles/lab6_13.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_13.dir\build.make CMakeFiles/lab6_13.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_13.dir\build.make CMakeFiles/lab6_13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=65,66 "Built target lab6_13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=67,68 "Built target lab6_13"
 .PHONY : CMakeFiles/lab6_13.dir/all
 
 # Include target in all.
@@ -1397,7 +1434,7 @@ clean: CMakeFiles/lab6_13.dir/clean
 CMakeFiles/lab6_6.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_6.dir\build.make CMakeFiles/lab6_6.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_6.dir\build.make CMakeFiles/lab6_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=75,76 "Built target lab6_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=77,78 "Built target lab6_6"
 .PHONY : CMakeFiles/lab6_6.dir/all
 
 # Include target in all.
@@ -1434,7 +1471,7 @@ clean: CMakeFiles/lab6_6.dir/clean
 CMakeFiles/lab6_12.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_12.dir\build.make CMakeFiles/lab6_12.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_12.dir\build.make CMakeFiles/lab6_12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=63,64 "Built target lab6_12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=65,66 "Built target lab6_12"
 .PHONY : CMakeFiles/lab6_12.dir/all
 
 # Include target in all.
@@ -1471,7 +1508,7 @@ clean: CMakeFiles/lab6_12.dir/clean
 CMakeFiles/lab6_7.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_7.dir\build.make CMakeFiles/lab6_7.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_7.dir\build.make CMakeFiles/lab6_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=77,78 "Built target lab6_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=79,80 "Built target lab6_7"
 .PHONY : CMakeFiles/lab6_7.dir/all
 
 # Include target in all.
@@ -1508,7 +1545,7 @@ clean: CMakeFiles/lab6_7.dir/clean
 CMakeFiles/lab6_8.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_8.dir\build.make CMakeFiles/lab6_8.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_8.dir\build.make CMakeFiles/lab6_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=79,80 "Built target lab6_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=81,82 "Built target lab6_8"
 .PHONY : CMakeFiles/lab6_8.dir/all
 
 # Include target in all.
@@ -1545,7 +1582,7 @@ clean: CMakeFiles/lab6_8.dir/clean
 CMakeFiles/lab6_9.dir/all:
 	$(MAKE) -f CMakeFiles\lab6_9.dir\build.make CMakeFiles/lab6_9.dir/depend
 	$(MAKE) -f CMakeFiles\lab6_9.dir\build.make CMakeFiles/lab6_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=81,82 "Built target lab6_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Codes\GitHub\CS-403\cmake-build-debug\CMakeFiles --progress-num=83,84 "Built target lab6_9"
 .PHONY : CMakeFiles/lab6_9.dir/all
 
 # Include target in all.
