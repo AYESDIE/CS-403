@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.10)
 project(CS403)
 
 set(CMAKE_CXX_STANDARD 14)
@@ -48,3 +48,6 @@ add_executable(lab6_7 Lab-6/lab6_7.cpp)
 add_executable(lab6_8 Lab-6/lab6_8.cpp)
 add_executable(lab6_9 Lab-6/lab6_9.cpp)
 add_executable(lab6_10 Lab-6/lab6_10.cpp)
+add_executable(lab6_11 Lab-6/lab6_11.cpp)
+add_executable(lab6_12 Lab-6/lab6_12.cpp)
+add_executable(lab6_13 Lab-6/lab6_13.cpp)

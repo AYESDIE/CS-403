@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="CS403" targetName="lab0_1" />
+      <config projectName="CS403" targetName="lab0_2" />
+      <config projectName="CS403" targetName="lab1_1" />
+      <config projectName="CS403" targetName="lab6_10" />
+      <config projectName="CS403" targetName="lab6_11" />
+      <config projectName="CS403" targetName="lab6_9" />
+      <config projectName="CS403" targetName="lab6_7" />
+      <config projectName="CS403" targetName="lab6_12" />
+      <config projectName="CS403" targetName="lab6_8" />
+      <config projectName="CS403" targetName="lab6_13" />
+      <config projectName="CS403" targetName="lab6_5" />
+      <config projectName="CS403" targetName="lab6_6" />
+      <config projectName="CS403" targetName="lab4_5" />
+      <config projectName="CS403" targetName="lab5_4" />
+      <config projectName="CS403" targetName="lab6_3" />
+      <config projectName="CS403" targetName="lab5_5" />
+      <config projectName="CS403" targetName="lab6_4" />
+      <config projectName="CS403" targetName="lab2_5" />
+      <config projectName="CS403" targetName="lab3_4" />
+      <config projectName="CS403" targetName="lab4_3" />
+      <config projectName="CS403" targetName="lab5_2" />
+      <config projectName="CS403" targetName="lab3_5" />
+      <config projectName="CS403" targetName="lab4_4" />
+      <config projectName="CS403" targetName="lab5_3" />
+      <config projectName="CS403" targetName="lab6_2" />
+      <config projectName="CS403" targetName="lab0_5" />
+      <config projectName="CS403" targetName="lab1_4" />
+      <config projectName="CS403" targetName="lab2_3" />
+      <config projectName="CS403" targetName="lab3_2" />
+      <config projectName="CS403" targetName="lab4_1" />
+      <config projectName="CS403" targetName="lab2_4" />
+      <config projectName="CS403" targetName="lab3_3" />
+      <config projectName="CS403" targetName="lab4_2" />
+      <config projectName="CS403" targetName="lab5_1" />
+      <config projectName="CS403" targetName="lab0_3" />
+      <config projectName="CS403" targetName="lab1_2" />
+      <config projectName="CS403" targetName="lab2_1" />
+      <config projectName="CS403" targetName="lab0_4" />
+      <config projectName="CS403" targetName="lab1_3" />
+      <config projectName="CS403" targetName="lab2_2" />
+      <config projectName="CS403" targetName="lab3_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6205217d-ea5f-4b41-9757-e27d8acfcabb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab-6/lab6_11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab-6/lab6_12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab-6/lab6_13.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-6/lab6_10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-6/lab6_10.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-6/lab6_9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lab-6/lab6_9.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="lab6_1.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-6/lab6_1.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="lab6_11.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab-6/lab6_11.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab6_12.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab-6/lab6_12.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lab-6/lab6_9.cpp" />
+        <option value="$PROJECT_DIR$/Lab-6/lab6_10.cpp" />
+        <option value="$PROJECT_DIR$/Lab-6/lab6_11.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="967" />
+    <option name="width" value="960" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CS403" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS-403" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS403" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS-403" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab-6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.lab6_11">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="lab0_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab0_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab0_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab0_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab0_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab0_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab0_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab0_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab0_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab0_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab1_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab1_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab1_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab1_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab1_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab1_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab1_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab2_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab2_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab2_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab2_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab2_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab2_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab2_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab2_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab2_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab2_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab3_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab3_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab3_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab3_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab3_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab3_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab3_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab3_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab3_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab3_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab4_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab4_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab4_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab4_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab4_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab4_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab4_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab4_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab5_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab5_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab5_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab5_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab5_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab5_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab5_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab5_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab5_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab5_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab6_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab6_11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_11" />
+    <configuration name="lab6_12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_13" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <configuration name="lab6_9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS403" TARGET_NAME="lab6_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS403" RUN_TARGET_NAME="lab6_9" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.lab0_1" />
+      <item itemvalue="Application.lab0_2" />
+      <item itemvalue="Application.lab0_3" />
+      <item itemvalue="Application.lab0_4" />
+      <item itemvalue="Application.lab0_5" />
+      <item itemvalue="Application.lab1_1" />
+      <item itemvalue="Application.lab1_2" />
+      <item itemvalue="Application.lab1_3" />
+      <item itemvalue="Application.lab1_4" />
+      <item itemvalue="Application.lab2_1" />
+      <item itemvalue="Application.lab2_2" />
+      <item itemvalue="Application.lab2_3" />
+      <item itemvalue="Application.lab2_4" />
+      <item itemvalue="Application.lab2_5" />
+      <item itemvalue="Application.lab3_1" />
+      <item itemvalue="Application.lab3_2" />
+      <item itemvalue="Application.lab3_3" />
+      <item itemvalue="Application.lab3_4" />
+      <item itemvalue="Application.lab3_5" />
+      <item itemvalue="Application.lab4_1" />
+      <item itemvalue="Application.lab4_2" />
+      <item itemvalue="Application.lab4_3" />
+      <item itemvalue="Application.lab4_4" />
+      <item itemvalue="Application.lab4_5" />
+      <item itemvalue="Application.lab5_1" />
+      <item itemvalue="Application.lab5_2" />
+      <item itemvalue="Application.lab5_3" />
+      <item itemvalue="Application.lab5_4" />
+      <item itemvalue="Application.lab5_5" />
+      <item itemvalue="Application.lab6_10" />
+      <item itemvalue="Application.lab6_11" />
+      <item itemvalue="Application.lab6_12" />
+      <item itemvalue="Application.lab6_13" />
+      <item itemvalue="Application.lab6_2" />
+      <item itemvalue="Application.lab6_3" />
+      <item itemvalue="Application.lab6_4" />
+      <item itemvalue="Application.lab6_5" />
+      <item itemvalue="Application.lab6_6" />
+      <item itemvalue="Application.lab6_7" />
+      <item itemvalue="Application.lab6_8" />
+      <item itemvalue="Application.lab6_9" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6205217d-ea5f-4b41-9757-e27d8acfcabb" name="Default" comment="" />
+      <created>1542077771285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542077771285</updated>
+      <workItem from="1542077776310" duration="1565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13541667" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32837406" />
+      <window_info anchor="bottom" id="CMake" weight="0.33261803" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3953241" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_13.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_7.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_8.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_9.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#137#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_12.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_1.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab-6/lab6_11.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
